@@ -1,6 +1,7 @@
 ---
 layout: page
 excerpt: "About Me.."
+css: "/css/academicons.css"
 ---
 
 I am a post doctoral fellow in the **[Department of Electrical Engineering & Computer Science (EECS)](https://eecs.iiserb.ac.in/)** at **[Indian Institute of Science Education and Research Bhopal (IISER Bhopal)](https://www.iiserb.ac.in/)** since May, 2018. My current research spans on the applied inter-disciplinary areas of software requirements engineering, natural language processing and artificial intelligence. 
@@ -10,3 +11,8 @@ More specifically, I am using the constructs of natural language processing and 
 {: style="text-align: justify"}
 
 
+<div style="text-align: left">
+<a target="_blank" href="https://scholar.google.co.in/citations?user=J5u1v6QAAAAJ&hl=en"><span class="ai ai-google-scholar ai-lg" style="color:#000000" aria-hidden="true"></span></a> <a target="_blank" href="https://dblp.uni-trier.de/pid/143/7257.html?q=author%3DSiba_Mishra"><span class="ai ai-dblp ai-lg" style="color:#000000" aria-hidden="true"></span></a>
+</div>
+
+---
