@@ -8,7 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Siba Mishra
   avatar: SIBA.jpg
-  #bio: "A brief description of yourself."
+  bio: Post Doctoral Fellow <br/>
+       Department of EECS <br/>
+       IISER Bhopal <br/>
+       India
 # Includes an icon in the footer for each username you enter
 footer-links:  
   email: sibamishracse@gmail.com
