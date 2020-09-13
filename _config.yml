@@ -9,7 +9,10 @@ owner:
   #name: Siba Mishra
   avatar: SIBA.jpg
   #bio: "A brief description of yourself."
-  email: #emailaddress
+# Includes an icon in the footer for each username you enter
+footer-links:  
+  email: sibamishracse@gmail.com
+  dblp: Siba_Mishra
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
