@@ -1,7 +1,9 @@
 # Site wide configuration
 
-title: Siba Mishra
-locale: en_US
+title: "Home"
+locale: "en"
+name: "Siba Mishra"
+url: "https://sibamishra.github.io"
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
