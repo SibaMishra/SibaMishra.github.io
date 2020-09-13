@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Siba Mishra
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  name: Siba Mishra
+  avatar: SIBA.jpg
+  #bio: "A brief description of yourself."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
@@ -50,6 +50,38 @@ creative-commons:
   cc-by: #yes
   cc-by-nc: #yes
 
+scholar:
+  last_name: Mishra
+  first_name: Siba
+
+
+  style: _bibliography/my-ieee.csl
+  locale: en
+  sort_by: year, month
+  order: descending
+  
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography/
+  bibliography: references.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
+
+
+
+
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
 
@@ -62,6 +94,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-scholar
 
 kramdown:
   auto_ids: true
