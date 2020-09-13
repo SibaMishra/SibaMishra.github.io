@@ -11,11 +11,9 @@ owner:
   bio: Post Doctoral Fellow <br/>
        Department of EECS <br/>
        IISER Bhopal <br/>
-       India
-# Includes an icon in the footer for each username you enter
-footer-links:  
-  email: sibamishracse@gmail.com
-  dblp: Siba_Mishra
+       India 
+  #email: sibamishracse@gmail.com
+  #dblp: Siba_Mishra
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
