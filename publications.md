@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-{% bibliography %}
+{% bibliography _bibliography/reference.bib %}
 
 
 
