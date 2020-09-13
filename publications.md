@@ -3,8 +3,7 @@ layout: page
 title: Publication
 ---
 
-{{ % bibliography % }}
-
+{% bibliography %}
 
 
 
