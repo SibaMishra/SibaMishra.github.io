@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-css: "/assets/css/academicons/css/academicons.css"
+css: "/assets/css/academicons.css"
 ---
 
 ---
