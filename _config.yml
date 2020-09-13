@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: **Siba Mishra**
+title: Siba Mishra
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Siba Mishra
+  #name: Siba Mishra
   avatar: SIBA.jpg
   #bio: "A brief description of yourself."
   email: #emailaddress
