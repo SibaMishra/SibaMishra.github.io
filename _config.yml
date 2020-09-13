@@ -1,0 +1,115 @@
+# Site wide configuration
+
+title: 'Siba Mishra'
+timezone: 'India/Bhopal'
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Siba Mishra
+  avatar: SIBA.jpg
+  bio: "Post Doctoral Fellow <br/>
+        Department of EECS <br/>
+        IISER Bhopal <br/>
+        India"
+  #email: sibamishracse@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  #twitter: sibacse
+  linkedin: #username
+  github: SibaMishra
+  orcid: 0000-0002-9893-595X
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: J5u1v6QAAAAJ&hl=en
+  facebook: #username
+  instagram: #username
+  bing-verify:
+  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  xing: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  disqus-shortname:
+
+# The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
+# you may do so in _sass/variables.scss
+highlight-color: '#CC0000'
+lowlight-color: '#000'
+
+
+
+scholar:
+  last_name: Mishra
+  first_name: Siba
+
+
+  style: _bibliography/my-ieee.csl
+  locale: en
+  sort_by: year, month
+  order: descending
+  
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography/
+  bibliography: references.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: false
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+ 
+    
+  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+creative-commons:
+  cc-by: #yes
+  cc-by-nc: #yes
+ safe: true
+#DO NOT EDIT BEYOND THIS POINT
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-scholar
+
+whitelist:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-scholar
+
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
