@@ -30,7 +30,7 @@ modified: 9-14-20
 
 * <u>Siba Mishra</u>, Urvashi Sharma, and Chiranjeev Kumar. Feb. 2014. **A Novel Approach for Computing Dynamic Slices of Web Based Applications**. *In: Proceedings of the Fourth International Conference on Advanced Computing Communication Technologies [ACCT'2014], Rohtak, India*, pp. 153–158. <a href="https://doi.org/10.1109/ACCT.2014.27" target="_blank"><span class="ai ai-doi-square ai-1x" style="color:#000000" aria-hidden="true"></span></a>
 
-* Abhishek Ray, <u>Siba Mishra</u>, and Durga Prasad Mohapatra. Feb. 2013. **Architectural Aspect-Oriented Dynamic Slicing**. *In: Proceedings of the Fourth Workshop on Advances in Model-Based Software Engineering [WAMBSE'2013], co-located at [ISEC'2013], New Delhi, India*. Vol. 11. Infosys Labs Briefings. <a target="_blank" href="sibamishra.github.io/papers/WAMBSE_2013.pdf"><span class="fa fa-file-pdf-o fa-2x" style="color:#000000" aria-hidden="true"></span></a>
+* Abhishek Ray, <u>Siba Mishra</u>, and Durga Prasad Mohapatra. Feb. 2013. **Architectural Aspect-Oriented Dynamic Slicing**. *In: Proceedings of the Fourth Workshop on Advances in Model-Based Software Engineering [WAMBSE'2013], co-located at [ISEC'2013], New Delhi, India*. Vol. 11. Infosys Labs Briefings. <a target="_blank" href="sibamishra.github.io/papers/WAMBSE_2013.pdf"><span class="fa fa-file-pdf-o fa-lg" style="color:#000000" aria-hidden="true"></span></a>
 
 * Abhishek Ray, <u>Siba Mishra</u>, and Durga Prasad Mohapatra. Jan. 2013. **A Novel Approach for Computing Dynamic Slices of Concurrent Aspect-Oriented Programs**. *In: International Journal of Software Engineering and its Applications (IJSEIA)* 7.1, pp. 13–32. 
 
