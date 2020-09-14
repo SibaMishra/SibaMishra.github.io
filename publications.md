@@ -5,8 +5,8 @@ title: Publications
 tags: [about, publications]
 modified: 9-14-20
 comments: true
-<!--- --> image:
-  <!--- --> feature: .ext
+[comment]: image:
+[comment]: feature: .ext
 ---
 
 ***
