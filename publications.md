@@ -8,7 +8,7 @@ modified: 9-14-20
 
 ***
 
-* <u>Siba Mishra</u>, Arpit Sharma. March, 2020. **Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements**. *In Proceedings of the 26th International Working Conference on Requirements Engineering: Foundation for Software Quality*. Pisa, Italy. pp. 203-218. <a target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-44429-7_15"><span class="fa fa-external-link-square fa-lg" style="color:#000000" aria-hidden="true"></span></a> 
+* <u>Siba Mishra</u>, Arpit Sharma. March, 2020. **Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements**. *In Proceedings of the 26th International Working Conference on Requirements Engineering: Foundation for Software Quality*. Pisa, Italy. pp. 203-218. <a target="_blank" href="https://link.springer.com/chapter/10.1007%2F978-3-030-44429-7_15"><span class="fa fa-external-link fa-lg" style="color:#000000" aria-hidden="true"></span></a> 
 
 * Oliveros CH, Field DJ, Ksepka DT, Barker FK, Aleixo A, Andersen MJ, Alström P, Benz BW, Braun EL, Braun MJ, Bravo GA, Brumfield RT, Chesser RT, Claramunt S, <u>Harvey MG</u>, Hosner PA, Joseph L, Kimball R, Mack AL, Miskelly CM, Peterson AT, Robbins MB, Sheldon FH, Silveira LF, Smith BT, White ND, Moyle RG, Faircloth BC. 2019. **Earth history and the passerine superradiation**. *Proceedings of the National Academy of Sciences* 116: 7916-7925. <a href="https://www.pnas.org/content/116/16/7916" target="_blank">(html)</a> <a href="https://www.pnas.org/content/pnas/116/16/7916.full.pdf" target="_blank">(pdf)</a>
 
