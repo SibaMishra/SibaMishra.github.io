@@ -11,10 +11,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Siba Mishra
   avatar: SIBA.jpg
-  bio: Post Doctoral Fellow <br>
-       Department of EECS <br>
-       IISER Bhopal <br>
-       India 
+  #bio: Post Doctoral Fellow <br>
+       #Department of EECS <br>
+       #IISER Bhopal <br>
+       #India 
   #email: sibamishracse@gmail.com
   #skype: 
   #dblp: Siba_Mishra
