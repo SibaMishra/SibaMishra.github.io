@@ -87,7 +87,10 @@ scholar:
 
   query: "@*"
 
-
+plainwhite:
+  dark_mode: true
+  sitemap: true
+  search: true
 
 
 
