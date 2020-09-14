@@ -8,19 +8,20 @@ timezone: India/Bhopal
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
-owner:
+author:
   name: Siba Mishra
   avatar: SIBA.jpg
   bio: Post Doctoral Fellow <br>
        Department of EECS <br>
        IISER Bhopal <br>
        India 
-  #email: sibamishracse@gmail.com
+  email: sibamishracse@gmail.com
+  #skype: 
   #dblp: Siba_Mishra
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: SibaMishra
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -52,6 +53,20 @@ owner:
 highlight-color: '#CC0000'
 lowlight-color: '#000'
 
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: false
+  google-plus: false
+  github: true
+  linkedin: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  instagram: false
+  youtube: false
+  spotify: false
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
