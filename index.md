@@ -10,7 +10,7 @@ I am a post doctoral fellow in the **[Department of Electrical Engineering & Com
 More specifically, I am using the constructs of natural language processing and artificial intelligence to improve the quality of software requirements written in natural language semantics. I obtained a PhD at the **[Department of Computer Science and Engineering](https://www.iitism.ac.in/index.php/Departments/dept_cse)**, **[Indian Institute of Technology (Indian School of Mines), Dhanbad](https://www.iitism.ac.in/)** in March, 2018. 
 {: style="text-align: justify"}
 
----
+<h1> More About Me: </h1>
 <div style="text-align: center">
 <a target="_blank" href="https://scholar.google.co.in/citations?user=J5u1v6QAAAAJ&hl=en"><span class="ai ai-google-scholar-square ai-2x" style="color:#000000" aria-hidden="true"></span></a> 
 <a target="_blank" href="https://dblp.uni-trier.de/pid/143/7257.html?q=author%3DSiba_Mishra"><span class="ai ai-dblp-square ai-2x" style="color:#000000" aria-hidden="true"></span></a> 
@@ -20,7 +20,7 @@ More specifically, I am using the constructs of natural language processing and 
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57200330225"><span class="ai ai-scopus-square ai-2x" style="color:#000000" aria-hidden="true">
 </span></a>
 </div>
----
+
 
 
 
