@@ -380,7 +380,7 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: center;
+	display: none;
 	.bio-photo {
 		max-width: 200px;
                 border-radius: 0%;
@@ -426,7 +426,7 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	margin-bottom: 1em;
 	@media #{$small} {
-		display: inline-block;
+		display: none;
 	}
 	.bio-photo {
 		float: left;
