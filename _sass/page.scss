@@ -381,7 +381,12 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
-		@include rounded(150px);
+		border-radius: 0%;
+
+		 @include breakpoint($large) {
+                   padding: 0px;
+                   border: 0px solid $border-color;
+    }
 	}
 	@media #{$small} {
 		display: block;
