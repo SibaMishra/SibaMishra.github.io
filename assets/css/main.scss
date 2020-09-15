@@ -24,6 +24,7 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "coderay";
 @import "elements";
 @import "sidebar";
+@import "breakpoint";
 @import "forms";
 @import "page";
 @import "vendor/font-awesome/font-awesome";
