@@ -379,13 +379,13 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: none;
+	display: center;
 	.bio-photo {
 		max-width: 200px;
                 border-radius: 0%;
 	}
 	@media #{$small} {
-		display: block;
+		display: inline-block;
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
@@ -424,7 +424,7 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	margin-bottom: 1em;
 	@media #{$small} {
-		display: none;
+		display: inline-block;
 	}
 	.bio-photo {
 		float: left;
