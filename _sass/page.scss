@@ -380,8 +380,8 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		max-width: 110px;
-		@include rounded(150px);
+		max-width: 200px;
+                border-radius: 0%;
 	}
 	@media #{$small} {
 		display: block;
@@ -428,8 +428,8 @@ $button-size: 1.5rem;
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
-		max-width: 100px;
-		@include rounded(150px);
+		max-width: 200px;
+                border-radius: 0%;
 	}
 	.author-social {
 		display: inline-block;
