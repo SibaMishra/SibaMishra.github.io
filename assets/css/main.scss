@@ -23,6 +23,7 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "pygments";
 @import "coderay";
 @import "elements";
+@import "sidebar";
 @import "forms";
 @import "page";
 @import "vendor/font-awesome/font-awesome";
