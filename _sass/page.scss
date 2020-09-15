@@ -384,6 +384,17 @@ $button-size: 1.5rem;
 	.bio-photo {
 		max-width: 200px;
                 border-radius: 0%;
+		align-items: center;
+                bottom: 0;
+                display: flex;
+                justify-content: center;
+                 left: 0;
+                 opacity: 0;
+                  position: absolute;
+                right: 0;
+                 top: 0;
+                 transition: opacity 0.25s;
+                 z-index: 1;
 	}
 	@media #{$small} {
 		display: inline-block;
