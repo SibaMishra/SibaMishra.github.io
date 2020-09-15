@@ -56,6 +56,9 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
+	text-shadow: 3px 3px 4px rgba(#000, 0.8);
+	color: #fff;
+	font-size: 0.8em;
 	@media #{$small} {
 		@include grid(12,9);
 		@include prefix(12,0);
