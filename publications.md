@@ -18,7 +18,7 @@ modified: 9-14-20
 
 * <u>Siba Mishra</u> and Chiranjeev Kumar. July 2018. **Effort Estimation for Service-Oriented Computing Environments**. *In: Computing and Informatics* 37.3, pp. 553–580. <a href="http://www.cai.sk/ojs/index.php/cai/article/view/2018\_3\_553" target="_blank"><span class="fa fa-external-link-square fa-lg" style="color:#000000" aria-hidden="true"></span></a>
 
-* Mohit Chawla, <u>Siba Mishra</u>, Kriti Singh, and Chiranjeev Kumar. Dec. 2017. **A Comparison of Data Exchange Mechanisms for Real-Time Communication**. In: International Journal of Rough Sets and Data Analysis* 4.4, pp. 66–81. <a href="https://doi.org/10.4018/IJRSDA.2017100105" target="_blank"><span class="ai ai-doi-square ai-lg" style="color:#000000" aria-hidden="true"></span></a>
+* Mohit Chawla, <u>Siba Mishra</u>, Kriti Singh, and Chiranjeev Kumar. Dec. 2017. **A Comparison of Data Exchange Mechanisms for Real-Time Communication**. *In: International Journal of Rough Sets and Data Analysis* 4.4, pp. 66–81. <a href="https://doi.org/10.4018/IJRSDA.2017100105" target="_blank"><span class="ai ai-doi-square ai-lg" style="color:#000000" aria-hidden="true"></span></a>
 
 * Rakesh Ranjan Kumar, <u>Siba Mishra</u>, and Chiranjeev Kumar. Nov. 2017. **Prioritizing the solution of cloud service selection using integrated MCDM methods under Fuzzy environment**. *In: The Journal of Supercomputing* 73.11, pp. 4652–4682. <a href="https://doi.org/10.1007/s11227-017-2039-1" target="_blank"><span class="ai ai-doi-square ai-lg" style="color:#000000" aria-hidden="true"></span></a>
 
