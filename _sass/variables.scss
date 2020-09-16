@@ -106,6 +106,9 @@ $link-color       : #007bb6 !default;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 30);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
 
 /*
 
