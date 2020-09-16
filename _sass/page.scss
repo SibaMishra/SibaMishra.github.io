@@ -384,6 +384,8 @@ $button-size: 1.5rem;
 	.bio-photo {
 		max-width: 200px;
                 border-radius: 0%;
+		-webkit-filter: brightness(20%);
+                filter:brightness(20%);
 		
 	}
 	@media #{$small} {
@@ -433,6 +435,8 @@ $button-size: 1.5rem;
 		margin-right: 25px;
 		max-width: 200px;
                 border-radius: 0%;
+		-webkit-filter: brightness(20%);
+                filter:brightness(20%);
 		
 	}
 	.author-social {
