@@ -2,10 +2,7 @@
 
 - title: Bio
   url: /bio/
-  
-subfolderitems:
-- title: Posts
-  url: /post/
+ 
 
 - title: Research
   url: /research/
