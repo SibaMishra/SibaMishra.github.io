@@ -2,6 +2,9 @@
 
 - title: Bio
   url: /bio/
+  
+- title: Posts
+  url: /post/
 
 - title: Research
   url: /research/
