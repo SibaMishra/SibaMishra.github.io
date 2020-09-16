@@ -14,21 +14,62 @@ $heading-font: 'PT Sans Narrow', sans-serif;
 $code-font: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
 $alt-font: $base-font;
 
+
+/* system typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+
+/* sans serif typefaces */
+$sans-serif-narrow          : $sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+/* serif typefaces */
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond                   : Garamond, serif;
+
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
+
+/* type scale */
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
+
+
+
+
 /*
    Colors
    ========================================================================== */
 
-$bodycolor      : #fff;
-$body-color     : $bodycolor;
-$textcolor      : #333332;
-$text-color     : $textcolor;
-$border-color   : $text-color;
-$basecolor 		  : #343434;
-$compcolor 		  : spin($basecolor, 180);
-$bordercolor    : $basecolor;
-$white          : #fff;
-$black          : #111;
-$accentcolor    : $black;
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$body-color                 : #252a34;
+$background-color           : #252a34;
+$code-background-color      : mix(#000, $background-color, 15%);
+$code-background-color-dark : mix(#000, $background-color, 20%);
+$text-color                 : #eaeaea;
+$border-color               : mix(#fff, $background-color, 20%);
+
+$primary-color              : #8cd2d5;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 /* buttons */
 $primary			: $black;
@@ -59,11 +100,40 @@ $linkcolorvisited : lighten($linkcolorhover, 30);
 $linkcolorfocus 	: darken($linkcolorvisited, 10);
 
 /*
+
+/*
+   Grid
+   ========================================================================== */
+
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
+
+$susy: (
+  columns: 12,
+  column-width: 120px,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: $large,
+  global-box-sizing: border-box,
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
+);
+
+
+/*
+
    Breakpoints
    ========================================================================== */
 
-$micro            : "only screen and (min-width: 30em)";
-$small            : "only screen and (min-width: 37.5em)";
-$medium           : "only screen and (min-width: 48em)";
-$large            : "only screen and (min-width: 62em)";
-$x-large          : "only screen and (min-width: 86.375em)";
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 900px !default;
+$large                      : 925px !default;
+$x-large                    : 1280px !default;
