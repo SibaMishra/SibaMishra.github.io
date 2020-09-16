@@ -10,14 +10,6 @@
     -webkit-transition: all 1s ease-in-out 0s;
     -o-transition: all 1s ease-in-out 0s;
 }
-.#{$fa-css-prefix}-2x { font-size: 2em; }
-.#{$fa-css-prefix}-3x { font-size: 3em; }
-.#{$fa-css-prefix}-4x { font-size: 4em; }
-.#{$fa-css-prefix}-5x { font-size: 5em; }
-
-
-
-
 .fa:hover  {
     opacity: 1;
 }
@@ -27,3 +19,13 @@
     -webkit-transform: scale(1.5) rotateZ(-5deg);
     -o-transform: scale(1.5) rotateZ(-5deg);
 }
+
+
+.#{$fa-css-prefix}-2x { font-size: 2em; }
+.#{$fa-css-prefix}-3x { font-size: 3em; }
+.#{$fa-css-prefix}-4x { font-size: 4em; }
+.#{$fa-css-prefix}-5x { font-size: 5em; }
+
+
+
+
