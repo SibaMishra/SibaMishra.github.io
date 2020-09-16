@@ -3,8 +3,9 @@
 - title: Bio
   url: /bio/
   
-   - title: Posts
-     url: /post/
+subfolderitems:
+- title: Posts
+  url: /post/
 
 - title: Research
   url: /research/
