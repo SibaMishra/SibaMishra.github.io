@@ -392,6 +392,7 @@ $button-size: 1.5rem;
     {
       opacity: 0.3;
       filter: alpha(opacity=30);
+      transform: scale(1.2);
     }
 	@media #{$small} {
 		display: inline-block;
@@ -442,6 +443,7 @@ $button-size: 1.5rem;
                 border-radius: 0%;
 		opacity: 1;
                 filter: alpha(opacity=100);
+		transform: scale(1.2);
 		
 	}
 	.bio-photo:hover
