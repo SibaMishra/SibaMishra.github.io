@@ -17,10 +17,10 @@ More specifically, I am using the constructs of natural language processing and 
 <a target="_blank" href="https://dl.acm.org/profile/87958799257"><span class="ai ai-acmdl-square ai-2x" style="color:#000000" aria-hidden="true"></span></a> 
 <a target="_blank" href="https://orcid.org/0000-0002-9893-595X"><span class="ai ai-orcid-square ai-2x" style="color:#000000" aria-hidden="true"></span></a> 
 <a target="_blank" href="https://www.github.com/SibaMishra/"><span class="fa fa-github-square fa-2x" style="color:#000000" aria-hidden="true"></span></a>
+<a target="_blank" href="https://tex.stackexchange.com/users/85426/"><span class="fa fa-stack-exchange fa-2x" style="color:#000000" aria-hidden="true"></span></a>
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57200330225"><span class="ai ai-scopus-square ai-2x" style="color:#000000" aria-hidden="true"></span></a>
 <a target="_blank" href="./assets/cv/SIBA_CV.pdf"><span class="ai ai-cv-square ai-2x" style="color:#000000" aria-hidden="true"></span></a>
-<a target="_blank" href="https://stackoverflow.com/users/3966705/"><span class="ai ai-stackoverflow-square ai-2x" style="color:#000000" aria-hidden="true"></span></a>
-<a target="_blank" href="https://tex.stackexchange.com/users/85426/"><span class="fa fa-stack-exchange fa-2x" style="color:#000000" aria-hidden="true"></span></a>
+
 </div>
 
 
