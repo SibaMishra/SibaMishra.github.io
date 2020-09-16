@@ -70,7 +70,7 @@ $code-background-color-dark : mix(#000, $background-color, 20%);
 $textcolor                  : #eaeaea;
 $text-color                 : #eaeaea;
 $border-color               : mix(#fff, $background-color, 20%);
-$accentcolor                : $white;
+$accentcolor                : #050505;
 
 $primary-color              : #8cd2d5;
 $success-color              : #62c462;
@@ -101,7 +101,7 @@ $vimeo-color        : #1ab7ea;
 $youtube-color      : #ff3333;
 
 /* links */
-$linkcolor 		   : mix(#000, $info-color, 15%) !default;
+$linkcolor 		   : #33cccc;
 $link-color       : #007bb6 !default;
 $linkcolorhover 	: darken($linkcolor, 10);
 $linkcolorvisited : lighten($linkcolorhover, 30);
