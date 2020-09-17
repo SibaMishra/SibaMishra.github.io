@@ -14,7 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 1em 2em 2em;
+	padding: 2em 0 1em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -55,6 +55,7 @@ body {
 	float: none;
 	font-size: 0.8em;
 	display: block;
+	padding: 2em 0 1em;
 	@media #{$small} {
 		@include grid(12,9);
 		@include prefix(12,0);
