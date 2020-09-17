@@ -24,6 +24,7 @@ $lowlightcolor: {{ site.lowlight-color }};
 @import "pygments";
 @import "coderay";
 @import "elements";
+@import "responsive";
 @import "forms";
 @import "page";
 @import "vendor/font-awesome/font-awesome";
