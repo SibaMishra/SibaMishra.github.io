@@ -5,8 +5,9 @@
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
-        tr>
+        <tr>
           <th scope="row"><small>{{ item.date | date: "%b %-d, %Y" }}</small></th>
+          <td>
             {% if item.inline %}
             <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
             {% else %}
@@ -21,5 +22,4 @@
     <p>No news so far...</p>
   {% endif %}
 </div>
-
 
