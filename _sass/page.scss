@@ -52,7 +52,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: .5em;
+	margin-bottom: 1em;
 	float: none;
 	display: block;
 	@media #{$small} {
