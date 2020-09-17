@@ -21,8 +21,8 @@ body {
 	@include clearfix;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
-	border-bottom-width: .3em;
-	border-top-width: .3em;
+	border-bottom-width: .2em;
+	border-top-width: .2em;
 }
 
 /* Site name */
@@ -30,7 +30,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
+	margin-bottom: .6em;
 	float: none;
 	display: block;
 	text-align: center;
@@ -54,7 +54,7 @@ body {
 	@include suffix(12,1);
 	margin-bottom: .6em;
 	float: none;
-	padding: 5px 10px;
+	padding: 2px;
 	display: block;
 	@media #{$small} {
 		@include grid(12,9);
