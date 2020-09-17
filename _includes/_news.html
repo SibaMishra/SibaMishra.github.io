@@ -2,7 +2,6 @@
   <h4><samp><u>Recent Updates:</u></samp></h4>
   {% if site.news  %}
     <div class="pure-g table">
-      <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <small>{{ item.date | date: "%b, %Y" }}</small>
