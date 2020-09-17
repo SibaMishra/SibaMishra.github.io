@@ -20,7 +20,7 @@ More specifically, I am using the constructs of natural language processing and 
 </div>
 </div>
 
-[BOS17 - Amazon]:        https://www.google.com/maps/place/BOS17+-+Amazon/@42.3500003,-71.0511696,15z/data=!4m5!3m4!1s0x0:0x4c0f5065bae455b2!8m2!3d42.3500003!4d-71.0511696
+[BOS17 - Amazon]:        abcvghh
 
 
 
