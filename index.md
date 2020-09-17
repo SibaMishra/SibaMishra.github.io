@@ -15,7 +15,7 @@ More specifically, I am using the constructs of natural language processing and 
 
 #### <i class='far fa-fw fa-sm fa-clock'></i> Recent Updates *&middot; &middot; &middot;* ({{ site.baseurl }}/updates))
 
-{% include front_updates.html %}
+{% include _front_updates.html %}
 
 </div>
 </div>
