@@ -11,17 +11,6 @@ More specifically, I am using the constructs of natural language processing and 
 {: style="text-align: justify"}
 
 
-<div class='pure-u-1 pure-u-md-11-24 bot-right' markdown='1'>
-
-#### <i class='far fa-fw fa-sm fa-clock'></i> Recent Updates *&middot; &middot; &middot;* ({{ site.baseurl }}/updates))
-
-{% include _front_updates.html %}
-
-</div>
-</div>
-
-[BOS17 - Amazon]:        abcvghh
-
 
 
 
