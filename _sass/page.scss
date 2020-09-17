@@ -55,7 +55,7 @@ body {
 	float: none;
 	font-size: 0.8em;
 	display: block;
-	padding: 2em 0 1em;
+	padding: 5% 10%;
 	@media #{$small} {
 		@include grid(12,9);
 		@include prefix(12,0);
