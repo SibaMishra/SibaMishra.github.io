@@ -6,7 +6,7 @@ excerpt: "About Me.."
 
 <div class='pure-g'>
 
-<div class='pure-u-1 pure-u-sm-1-2 pure-u-md-13-24 top-left'> {% include front_pic.html %} </div>
+<div class='pure-u-1 pure-u-sm-1-2 pure-u-md-13-24 top-left'> {% include _front_pic.html %} </div>
 
 <div class='pure-u-1 pure-u-sm-1-2 pure-u-md-11-24 top-right' markdown='1'>
 </div>
