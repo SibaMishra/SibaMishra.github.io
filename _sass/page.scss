@@ -382,6 +382,7 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
+		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
 		opacity: 1;
@@ -439,6 +440,7 @@ $button-size: 1.5rem;
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
+		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
 		opacity: 1;
