@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: about
 excerpt: "About Me.."
+news: true
 ---
 
 
