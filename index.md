@@ -1,7 +1,6 @@
 ---
 layout: page
 excerpt: "About Me.."
-css: "/css/academicons.css"
 ---
 
 I am a post doctoral fellow in the **[Department of Electrical Engineering and Computer Science (EECS)](https://eecs.iiserb.ac.in/)** at **[Indian Institute of Science Education and Research Bhopal (IISER Bhopal)](https://www.iiserb.ac.in/)** since May, 2018. My current research spans on the applied inter-disciplinary areas of software engineering, software requirements engineering, natural language processing and artificial intelligence. 
