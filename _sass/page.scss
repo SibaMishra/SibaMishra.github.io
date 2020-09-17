@@ -22,7 +22,6 @@ body {
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .2em;
-	border-top-width: .2em;
 }
 
 /* Site name */
@@ -30,7 +29,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 	float: none;
 	display: block;
 	text-align: center;
@@ -52,7 +51,7 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 	float: none;
 	/* padding: 2px; */
 	display: block;
