@@ -71,7 +71,7 @@ $navicon-link-color-hover   : mix(#fff, $text-color, 75%) !default;
    ========================================================================== */
 
 $micro            : "only screen and (min-width: 30em)";
-$small            : "only screen and (min-width: 37.5em)";
+$small            :  600px !default;
 $medium           : "only screen and (min-width: 48em)";
 $large            : "only screen and (min-width: 62em)";
 $x-large          : "only screen and (min-width: 86.375em)";
