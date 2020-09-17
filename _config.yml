@@ -1,15 +1,11 @@
 # Site wide configuration
-
-title: "Home"
+author: "Siba Mishra"
+title: "Siba Mishra"
 locale: "en"
-name: "Siba Mishra"
 url: "https://sibamishra.github.io"
-baseurl:
 repository: SibaMishra/sibamishra.github.io
 timezone: Asia/Kolkata
 logo: # filename of a logo image that has been placed into your images directory
-
-
 
 
 # Enter the following platform usernames if you would like for them to appear on your site.
