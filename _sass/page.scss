@@ -32,6 +32,7 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
+	text-align:center;
 	@include font-rem(24);
 	@media #{$small} {
 		@include grid(12,2);
