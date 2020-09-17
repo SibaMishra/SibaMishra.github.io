@@ -381,17 +381,16 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: none;
 	.bio-photo {
-		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
-		opacity: 1;
-                filter: alpha(opacity=100);
+		opacity: 0.5;
+                filter: alpha(opacity=50);
 	
 	}
 	.bio-photo:hover
     {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
+      opacity: 1;
+      filter: alpha(opacity=100);
       transform: scale(1.2);
     }
 	@media #{$small} {
@@ -442,15 +441,16 @@ $button-size: 1.5rem;
 		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
-		opacity: 1;
-                filter: alpha(opacity=100);
-		transform: scale(1.2);
+		opacity: 0.5;
+                filter: alpha(opacity=50);
+		
 		
 	}
 	.bio-photo:hover
     {
-      opacity: 0.3;
-      filter: alpha(opacity=30);
+      opacity: 1;
+      filter: alpha(opacity=100);
+      transform: scale(1.2);
     }
 	.author-social {
 		display: inline-block;
