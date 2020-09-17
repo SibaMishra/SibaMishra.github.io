@@ -361,6 +361,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
+  padding: 20px;
   @include font-rem(14);
   color: $black;
   &:visited {
@@ -391,7 +392,7 @@ $button-size: 1.5rem;
     {
       opacity: 1;
       filter: alpha(opacity=100);
-      transform: scale(0.9);
+      transform: scale(1.1);
     }
 	@media #{$small} {
 		display: inline-block;
@@ -449,7 +450,7 @@ $button-size: 1.5rem;
     {
       opacity: 1;
       filter: alpha(opacity=100);
-      transform: scale(0.9);
+      transform: scale(1.1);
     }
 	.author-social {
 		display: inline-block;
