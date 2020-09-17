@@ -49,7 +49,21 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
 
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#CC0000'
