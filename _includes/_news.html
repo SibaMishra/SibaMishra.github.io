@@ -1,18 +1,25 @@
 <div class="news">
   <h4><samp><u>Recent Updates:</u></samp></h4>
   {% if site.news  %}
-    <div class="pure-g table">
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
-        <small>{{ item.date | date: "%b, %Y" }}</small>
+        tr>
+          <th scope="row"><small>{{ item.date | date: "%b, %Y" }}</small></th>
             {% if item.inline %}
             <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
             {% else %}
               <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {% endif %}
+         </td>
+        </tr>
       {% endfor %}
+  </table>
     </div>
   {% else %}
     <p>No news so far...</p>
   {% endif %}
 </div>
+
+
