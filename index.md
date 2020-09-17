@@ -13,7 +13,7 @@ More specifically, I am using the constructs of natural language processing and 
 
 <div class='pure-u-1 pure-u-md-11-24 bot-right' markdown='1'>
 
-#### <i class='far fa-fw fa-sm fa-clock'></i> Recent Updates *&middot; &middot; &middot;* ([&#x200a;Details&#x200a;]({{ site.baseurl }}/updates))
+#### <i class='far fa-fw fa-sm fa-clock'></i> Recent Updates *&middot; &middot; &middot;* ({{ site.baseurl }}/updates))
 
 {% include front_updates.html %}
 
