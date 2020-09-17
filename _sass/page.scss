@@ -14,7 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: .5em 0 .5em;
+	padding: 1em 2em 2em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
