@@ -54,7 +54,7 @@ body {
 	@include suffix(12,1);
 	margin-bottom: 1em;
 	float: none;
-	padding: 5% 10%;
+	padding: 5px 10px;
 	display: block;
 	@media #{$small} {
 		@include grid(12,9);
