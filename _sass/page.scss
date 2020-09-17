@@ -361,7 +361,7 @@ $button-size: 1.5rem;
 .author-social {
   display: block;
   margin-bottom: 5px;
-  padding-right: 10px;
+  padding-right: 15px;
   @include font-rem(14);
   color: $black;
   &:visited {
@@ -374,7 +374,7 @@ $button-size: 1.5rem;
     @include translate(0, 2px);
   }
   .fa {
-		margin-right: 7px;
+		margin-right: 10px;
 	}
 }
 
