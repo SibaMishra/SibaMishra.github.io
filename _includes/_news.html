@@ -18,10 +18,11 @@
       {% endfor %}
   </table>
     </div>
+  {% for item in site.news limit:>5 %}
   
-  {% if site.news_limit > 5 %}
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.github.url }}/news/">All news</a>)</small></h4>
-  {% endif %}
+  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/news/">All news</a>)</small></h4>
+  
+  {% endfor %}
   
   {% else %}
     <p>No news so far...</p>
