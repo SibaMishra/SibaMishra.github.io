@@ -449,7 +449,18 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	margin-bottom: 1em;
 	@media #{$small} {
-		display: none;
+		display: none; h4, h5, th,
+		h4 {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		h5 {
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		th {
+			margin-top: 5px;
+			margin-bottom: 5px;
 	}
 	.bio-photo {
 		float: left;
