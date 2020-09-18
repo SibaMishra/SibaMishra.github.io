@@ -382,7 +382,7 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: inline-block;
 	.bio-photo {
-		width: 60%;
+		width: 70%;
 		max-width: 200px;
                 border-radius: 0%;
 		margin: 1.25em auto 0 auto;
@@ -440,8 +440,8 @@ $button-size: 1.5rem;
 	}
 	.bio-photo {
 		float: center;
-		margin-right: 25px;
-		width: 50%;
+		//margin-right: 25px;
+		width: 60%;
 		margin: 1.25em auto 0 auto;
 		max-width: 100px;
                 border-radius: 0%;
@@ -457,7 +457,7 @@ $button-size: 1.5rem;
       /* transform: scale(1.1); */
     }
 	.author-social {
-		display: inline-block;
+		display: block;
 		margin-right: 20px;
 	}
 	@media #{$large} {
@@ -465,7 +465,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 100px;
 		}
 	}
 }
