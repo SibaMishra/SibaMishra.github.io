@@ -439,11 +439,11 @@ $button-size: 1.5rem;
 		display: block;
 	}
 	.bio-photo {
-		float: left;
+		float: center;
 		margin-right: 25px;
 		width: 60%;
 		margin: 1.25em auto 0 auto;
-		max-width: 180px;
+		max-width: 200px;
                 border-radius: 0%;
 		opacity: 0.8;
                 filter: alpha(opacity=80);
