@@ -20,27 +20,12 @@
     </div>
   
   {% if site.news_limit > news limit %}
-  <div class="related-news">
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.github.url }}/news/">All news</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.github.url }}{{ news.url }}" title="{{ news.title }}">{{ news.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
   {% endif %}
   
   {% else %}
     <p>No news so far...</p>
   {% endif %}
 
-  
-  
-
-
-{% include _scripts.html %}
-
-
-</div>
+  </div>
 
