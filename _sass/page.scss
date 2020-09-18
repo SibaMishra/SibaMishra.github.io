@@ -382,7 +382,6 @@ $button-size: 1.5rem;
 .article-author-side {
 	display: inline-block;
 	.bio-photo {
-		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
 		opacity: 0.8;
@@ -438,18 +437,10 @@ $button-size: 1.5rem;
 		display: none;
 	}
 	.bio-photo {
-		float: none;
+		float: left;
 		margin-right: 25px;
-		width: 50%;
 		max-width: 100px;
-                border-radius: 0%;
-		opacity: 0.8;
-                filter: alpha(opacity=80);
-	}
-	bio-photo:hover
-        {
-      opacity: 1;
-      filter: alpha(opacity=100);
+		@include rounded(150px);
 	}
 	.author-social {
 		display: inline-block;
