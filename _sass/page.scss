@@ -380,8 +380,9 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: inline-block;
+	display: none;
 	.bio-photo {
+		width: 60%;
 		max-width: 200px;
                 border-radius: 0%;
 		opacity: 0.8;
@@ -439,9 +440,17 @@ $button-size: 1.5rem;
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
-		max-width: 100px;
-		@include rounded(150px);
+		width: 60%;
+		max-width: 200px;
+		border-radius: 0%;
+		opacity: 0.8;
+                filter: alpha(opacity=80);
 	}
+	.bio-photo:hover
+         {
+          opacity: 1;
+          filter: alpha(opacity=100);
+         }
 	.author-social {
 		display: inline-block;
 		margin-right: 10px;
