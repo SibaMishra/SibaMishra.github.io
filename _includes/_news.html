@@ -22,4 +22,6 @@
     <p>No news so far...</p>
   {% endif %}
   </div>
-
+{% for item in site.news limit:>5 %}
+  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}news.md/">All news</a>)</small></h4>
+  {% endfor %}
