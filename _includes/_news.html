@@ -21,10 +21,8 @@
   {% else %}
     <p>No news so far...</p>
   {% endif %}
-{% for item in news limit: site.news_limit %}
-  {% if item.count() > 5 %}
+  {% if site.news_limit.count() > 5 %}
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/news/">All news</a>)</small></h4>
   {% endif %}
-  {% endfor %}
   </div>
 
