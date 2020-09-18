@@ -11,9 +11,9 @@ I am a post doctoral fellow in the **[Department of Electrical Engineering and C
 More specifically, I am using the constructs of natural language processing and artificial intelligence to improve the quality of software requirements written in natural language semantics. I obtained a PhD at the **[Department of Computer Science and Engineering](https://www.iitism.ac.in/index.php/Departments/dept_cse)**, **[Indian Institute of Technology (Indian School of Mines), Dhanbad](https://www.iitism.ac.in/)** in March, 2018. 
 {: style="text-align: justify"}
 
-{% if page.news %}
+<!--- {% if page.news %}
+{% endif %} -->
 {% include _news.html %}
-{% endif %}
 {: style="text-align: justify"}
 
 
