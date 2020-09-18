@@ -6,7 +6,7 @@
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <small><th scope="row">{{ item.date | date: "%b, %Y" }}</th></small>
+          <th scope="row"><small>{{ item.date | date: "%b, %Y" }}</small></th>
           <td>
             {% if item.inline %}
             <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
