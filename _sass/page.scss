@@ -436,11 +436,13 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	margin-bottom: 1em;
 	@media #{$small} {
-		display: inline-block;
+		display: block;
 	}
 	.bio-photo {
-		float: right;
+		//float: right;
 		//margin-right: 25px;
+                margin-left: auto;
+                margin-right: auto
 		width: 60%;
 		margin: 1.25em auto 0 auto;
 		max-width: 120px;
@@ -459,6 +461,7 @@ $button-size: 1.5rem;
 	.author-social {
 		display: none;
 		margin-right: 20px;
+		float: left;
 	}
 	@media #{$large} {
 		h3,
