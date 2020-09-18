@@ -439,12 +439,9 @@ $button-size: 1.5rem;
 		display: block;
 	}
 	.bio-photo {
-		//float: right;
-		//margin-right: 25px;
-                margin-left: auto;
-                margin-right: auto;
+		float: left;
+		margin-right: 25px;
 		width: 60%;
-		margin: 1.25em auto 0 auto;
 		max-width: 120px;
                 border-radius: 0%;
 		opacity: 0.8;
@@ -461,7 +458,6 @@ $button-size: 1.5rem;
 	.author-social {
 		display: none;
 		margin-right: 20px;
-		float: left;
 	}
 	@media #{$large} {
 		h3,
