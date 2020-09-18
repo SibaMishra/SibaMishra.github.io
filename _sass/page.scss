@@ -380,10 +380,12 @@ $button-size: 1.5rem;
 
 /* Author sidebar */
 .article-author-side {
-	display: none;
+	display: block;
 	.bio-photo {
-		max-width: 180px;
+		width: 60%;
+		max-width: 200px;
                 border-radius: 0%;
+		margin: 1.25em auto 0 auto;
 		opacity: 0.8;
                 filter: alpha(opacity=80);
 	
@@ -434,11 +436,13 @@ $button-size: 1.5rem;
 .article-author-bottom {
 	margin-bottom: 1em;
 	@media #{$small} {
-		display: none;
+		display: block;
 	}
 	.bio-photo {
 		float: left;
 		margin-right: 25px;
+		width: 60%;
+		margin: 1.25em auto 0 auto;
 		max-width: 180px;
                 border-radius: 0%;
 		opacity: 0.8;
