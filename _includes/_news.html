@@ -21,7 +21,7 @@
   {% else %}
     <p>No news so far...</p>
   {% endif %}
-  {% if site.news.count() > site.news_limit %}
+  {% if site.news.size > site.news_limit.size %}
   <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/news/">All news</a>)</small></h4>
   {% endif %}
   </div>
