@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 excerpt: "About Me.."
 news: true
 ---
