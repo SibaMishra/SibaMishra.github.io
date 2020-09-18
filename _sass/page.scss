@@ -439,11 +439,11 @@ $button-size: 1.5rem;
 		display: inline-block;
 	}
 	.bio-photo {
-		float: center;
+		float: right;
 		//margin-right: 25px;
 		width: 60%;
 		margin: 1.25em auto 0 auto;
-		max-width: 100px;
+		max-width: 120px;
                 border-radius: 0%;
 		opacity: 0.8;
                 filter: alpha(opacity=80);
@@ -457,7 +457,7 @@ $button-size: 1.5rem;
       /* transform: scale(1.1); */
     }
 	.author-social {
-		display: block;
+		display: none;
 		margin-right: 20px;
 	}
 	@media #{$large} {
