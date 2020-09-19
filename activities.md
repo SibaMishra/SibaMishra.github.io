@@ -9,7 +9,8 @@ title: Teaching Assistantships
 - **CSE11301** C Programming Lab, (Monsoon 2013, Winter 2015-2016) at IIT(ISM), Dhanbad.<br>
 - **CSC15204** Software Engineering Lab, (Monsoon 2014-2016) at IIT(ISM), Dhanbad.<br>
 - **CSC14202** Algorithm Design and Analysis Lab, (Winter 2014) at IIT(ISM), Dhanbad.<br>
-- **CSC13202** Data Structures Lab, (Monsoon 2013) at IIT(ISM), Dhanbad.{: style="text-align: justify"}
+- **CSC13202** Data Structures Lab, (Monsoon 2013) at IIT(ISM), Dhanbad.
+{: style="text-align: justify"}
 
 ## Professional Affiliations/Memberships
 <ol>
@@ -25,7 +26,8 @@ title: Teaching Assistantships
 | Year  | Role | Name | 
 | :---: | ---  | ---  | 
 | Jan, 2020  | Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
-| Feb, 2019  | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier.         |{:.table-striped}
+| Feb, 2019  | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier.         |
+{:.table-striped}
 
 
 
