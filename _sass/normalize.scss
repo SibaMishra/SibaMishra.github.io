@@ -404,14 +404,5 @@ th {
 td {
     border:0px solid #ffffff;
 }
-
-table {
-        border-collapse: collapse;
-        margin-bottom: .5em;
-        width: 100%; 
-   > table, td, th {
-        border: 1px solid #000000;
-        }
-}
 tr:nth-child(even){background-color: #f2f2f2}
 
