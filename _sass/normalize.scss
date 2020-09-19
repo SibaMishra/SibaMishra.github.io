@@ -393,15 +393,14 @@ textarea {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    border:2px solid #ff0000;
     margin-bottom: 1.5em;
     width: 100%; /* make full width */
 }
 
-th{
-    border:2px solid #000000;
-}
+.mytablestyle {
+        border-collapse: collapse;
 
-td{
-    border:1px solid #000000;
+   > table, td, th {
+        border: 1px solid black;
+        }
 }
