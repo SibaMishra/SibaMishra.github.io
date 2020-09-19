@@ -2,7 +2,7 @@
   <h5><samp><u>Recent Updates:</u></samp></h5>
   {% if site.news  %}
     <div class="table-responsive">
-      <table class="table table-sm table-borderless">
+      <table class="mytable">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
