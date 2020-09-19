@@ -3,6 +3,7 @@ layout: page
 title: Experience
 permalink: /bio/
 ---
+---
 **Post Doctoral Fellow**<br>
 Department of Electrical Engineering and Computer Science<br>
 Indian Institute of Science Education and Research, Bhopal<br>
@@ -10,7 +11,7 @@ Areas: Software Requirements Engineering<br>
 (May, 2018 to Present)
 
 # Education
-
+---
 **Doctor of Philosophy** <br> 
 Department of Computer Science and Engineering<br>
 Indian Institute of Technology (Indian School of Mines), Dhanbad<br>
