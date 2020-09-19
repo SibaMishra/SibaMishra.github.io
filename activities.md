@@ -3,7 +3,6 @@ layout: page
 title: Teaching Assistantships
 permalink: /activities/
 ---
----
 {:.mytable2}
 | Semester (Years) | Course                         | Institute |
 | :---:            | :---                           | --- |
@@ -17,6 +16,7 @@ permalink: /activities/
 | Monsoon (2013)   | Data Structures Lab               | IIT (ISM), Dhanbad |
 
 ## Professional Affiliations/Memberships
+---
 <ol>
 <li><strong>Professional Member</strong>, Association for Computing Machinery (ACM). </li>
 <li><strong>Member</strong>, India SOFTware Engineering community (ISOFT). </li>
@@ -26,6 +26,7 @@ permalink: /activities/
 
 
 ## Professional Activities
+---
 - **Reviewer**. Journal of Parallel and Distributed Computing (JPDC), Elsevier.
 - **Reviewer**. Arabian Journal for Science and Engineering (AJSE), Springer.
 - **Ad-hoc Reviewer**. International Journal of Fog Computing (IJFC), IGI Global.
