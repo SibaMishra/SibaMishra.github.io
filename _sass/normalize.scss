@@ -415,7 +415,11 @@ textarea {
    border-collapse: collapse;
     border-spacing: 0;
     border:1px solid #000000;
-   text-align: justify;
+    table-layout: fixed;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 .mytable2 th {
