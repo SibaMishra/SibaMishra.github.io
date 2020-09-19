@@ -426,8 +426,6 @@ textarea {
     border:1px solid #000000;
 }
 
-.mytable2 td.fit, 
-.mytable2 th.fit {
-    white-space: nowrap;
-    width: 1%;
+.mytable2-fit {
+    width: 1px;
 }
