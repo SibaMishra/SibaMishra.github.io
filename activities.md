@@ -15,16 +15,16 @@ permalink: /activities/
 ## Teaching Assistantships
 
 {:.mytable2}
-| Semester (Years) | Course                         | Institute         |
-| :--------------- | :------------------------------|  :-----           |
-| Winter (2020)    | Data Structures and Algorithms | IISER, Bhopal     | 
-| Monsoon (2019)   | Theory of Computation          | IISER, Bhopal     |
-| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier (NuSMV) | IISER, Bhopal |
-| Winter (2017)    | Database Management Systems Lab  | IIT (ISM), Dhanbad |
-| Winter (2016)    | C Programming Lab              | IIT (ISM), Dhanbad |
-| Monsoon (2015)   | Software Engineering Lab       | IIT (ISM), Dhanbad |
-| Winter (2014)    | Algorithm Design and Analysis Lab | IIT (ISM), Dhanbad |
-| Monsoon (2013)   | Data Structures Lab               | IIT (ISM), Dhanbad |
+| Semester (Year)  | Course Name    |                       
+| :---------------:| :--------------|   
+| Winter (2020)    | Data Structures and Algorithms at IISER Bhopal |  
+| Monsoon (2019)   | Theory of Computation at IISER Bhopal         | 
+| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER Bhopal|
+| Winter (2017)    | Database Management Systems Lab at IIT(ISM), Dhanbad | 
+| Winter (2016)    | C Programming Lab at IIT(ISM), Dhanbad               | 
+| Monsoon (2015)   | Software Engineering Lab at IIT(ISM), Dhanbad      | 
+| Winter (2014)    | Algorithm Design and Analysis Lab at IIT(ISM), Dhanbad| 
+| Monsoon (2013)   | Data Structures Lab at IIT(ISM), Dhanbad              | 
 
 
 ## Professional Activities
