@@ -1,14 +1,14 @@
 ---
 title: Teaching Assistantships
 ---
-**ECS202** Data Structures and Algorithms, (Winter 2020) at IISER Bhopal.<br>
-**ECS307** Theory of Computation, (Monsoon 2019) at IISER Bhopal.<br>
-**ECS302** Introduction to Software Modeling and Verification, (Lab Session) using New Symbolic Model Verifier (NuSMV) at IISER Bhopal.<br>
-**CSC16205** Database Management Systems Lab, (Winter 2016-2017) at IIT(ISM), Dhanbad.<br>
-**CSE11301** C Programming Lab, (Monsoon 2013, Winter 2015-2016) at IIT(ISM), Dhanbad.<br>
-**CSC15204** Software Engineering Lab, (Monsoon 2014-2016) at IIT(ISM), Dhanbad.<br>
-**CSC14202** Algorithm Design and Analysis Lab, (Winter 2014) at IIT(ISM), Dhanbad.<br>
-**CSC13202** Data Structures Lab, (Monsoon 2013) at IIT(ISM), Dhanbad.
+- **ECS202** Data Structures and Algorithms, (Winter 2020) at IISER Bhopal.<br>
+- **ECS307** Theory of Computation, (Monsoon 2019) at IISER Bhopal.<br>
+- **ECS302** Introduction to Software Modeling and Verification, (Lab Session) using New Symbolic Model Verifier (NuSMV) at IISER Bhopal.<br>
+- **CSC16205** Database Management Systems Lab, (Winter 2016-2017) at IIT(ISM), Dhanbad.<br>
+- **CSE11301** C Programming Lab, (Monsoon 2013, Winter 2015-2016) at IIT(ISM), Dhanbad.<br>
+- **CSC15204** Software Engineering Lab, (Monsoon 2014-2016) at IIT(ISM), Dhanbad.<br>
+- **CSC14202** Algorithm Design and Analysis Lab, (Winter 2014) at IIT(ISM), Dhanbad.<br>
+- **CSC13202** Data Structures Lab, (Monsoon 2013) at IIT(ISM), Dhanbad.
 {: style="text-align: justify"}
 
 ## Professional Affiliations/Memberships
