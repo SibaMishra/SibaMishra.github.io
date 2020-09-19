@@ -383,7 +383,7 @@ textarea {
 }
 
 /* ==========================================================================
-   Tables
+   Table 1
    ========================================================================== */
 
 /**
@@ -407,5 +407,22 @@ textarea {
 
 .mytable1 tr:nth-child(odd) {background: #fff}
 .mytable1 tr:nth-child(even) {background: #ccc}
+/* ==========================================================================
+   Table 2
+   ========================================================================== */
 
+.mytable2 {
+   border-collapse: collapse;
+    border-spacing: 0;
+     margin-bottom: .5em;
+    border:1px solid #000000;
+   width: 100%;
+}
 
+.mytable2 th{
+    border:1.5px solid #000000;
+}
+
+.mytable2 td{
+    border:1px solid #000000;
+}
