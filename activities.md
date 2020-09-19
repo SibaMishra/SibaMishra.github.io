@@ -16,10 +16,10 @@ permalink: /activities/
 
 {:.mytable2}
 | Semester (Year)  | Course Name    |                       
-| :---------------:| :--------------|   
-| Winter (2020)    | Data Structures and Algorithms at IISER Bhopal |  
-| Monsoon (2019)   | Theory of Computation at IISER Bhopal         | 
-| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER Bhopal|
+| :--------------- | :--------------|   
+| Winter (2020)    | Data Structures and Algorithms at IISER, Bhopal |  
+| Monsoon (2019)   | Theory of Computation at IISER, Bhopal         | 
+| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER, Bhopal|
 | Winter (2017)    | Database Management Systems Lab at IIT(ISM), Dhanbad | 
 | Winter (2016)    | C Programming Lab at IIT(ISM), Dhanbad               | 
 | Monsoon (2015)   | Software Engineering Lab at IIT(ISM), Dhanbad      | 
