@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Teaching Assistantships
+permalink: /activities/
+---
 ---
 {:.mytable2}
 | Semester (Years) | Course                         | Institute |
