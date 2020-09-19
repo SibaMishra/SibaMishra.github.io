@@ -12,9 +12,8 @@ permalink: /activities/
 <li><strong>Member</strong>, Computer Science and Engineering Society (CSE Society), ISM Dhanbad. </li>
 </ol>{: style="text-align: justify"}
 
-
-
 ## Teaching Assistantships
+
 {:.mytable2}
 | Semester (Years) | Course                         | Institute |
 | :---:            | :---                           | --- |
