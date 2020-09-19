@@ -34,8 +34,8 @@ permalink: /activities/
 ## Teaching Assistantships
 
 {:.mytable2}
-| Semester-YY  | Course Name at Institute    |                       
-| -------------| ------------------------    |   
+| Semester-YY  | Course Name |                       
+| -------------| ------------|   
 | Winter-20    | Data Structures and Algorithms at IISER, Bhopal |  
 | Monsoon-19   | Theory of Computation at IISER, Bhopal         | 
 | Monsoon-18   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER, Bhopal|
