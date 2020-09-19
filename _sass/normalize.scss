@@ -415,8 +415,7 @@ textarea {
    border-collapse: collapse;
     border-spacing: 0;
     border:1px solid #000000;
-    
-}
+    }
 
 .mytable2 th {
     border:1.5px solid #000000;
@@ -424,6 +423,8 @@ textarea {
 
 .mytable2 td {
     border:1px solid #000000;
+    max-width:100%;
+    white-space:nowrap;
 }
 
 .mytable2-fit {
