@@ -28,6 +28,8 @@ title: Teaching Assistantships
 | :---: | ---  | ---  | 
 | Jan, 2020  | Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
 | Feb, 2019  | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier.         | 
+
+
 {:.table-striped}
 {: style="text-align: justify"}
 
