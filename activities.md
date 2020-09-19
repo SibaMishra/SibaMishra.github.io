@@ -23,10 +23,10 @@ title: Teaching Assistantships
 
 ## Professional Activities
 
-Role | Event | 
---- | --- | 
-Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
-Reviewer | Future Generation Computer Systems (FGCS), Elsevier. | 
+|:Role: | :Event: | 
+|:---: | :---: | 
+|Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
+|Reviewer | Future Generation Computer Systems (FGCS), Elsevier. | 
 
 {: style="text-align: justify"}
 
