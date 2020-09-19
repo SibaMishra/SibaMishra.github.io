@@ -24,11 +24,11 @@ title: Teaching Assistantships
 
 ## Professional Activities
 
-| Item | Description | Price |
-| --- | --- | ---: |
-| item1 | item1 description | 1.00 |
-| item2 | item2 description | 100.00 |
+| :---: | ---  | ---  | 
+| Jan, 2020  | Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
+| Feb, 2019  | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier.         | 
 {:.table-striped}
+
 
 
 
