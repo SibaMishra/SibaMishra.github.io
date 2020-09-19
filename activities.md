@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Teaching Assistantships
 ---
 - **ECS202** Data Structures and Algorithms, (Winter 2020) at IISER Bhopal.<br>
