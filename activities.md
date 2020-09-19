@@ -1,8 +1,20 @@
 ---
 layout: page
-title: Teaching Assistantships
+title: Professional Affiliations and Memberships
 permalink: /activities/
 ---
+---
+
+<ol>
+<li><strong>Professional Member</strong>, Association for Computing Machinery (ACM). </li>
+<li><strong>Member</strong>, India SOFTware Engineering community (ISOFT). </li>
+<li><strong>Graduate Student Member</strong>, Institute of Electrical and Electronics Engineers (IEEE). </li>
+<li><strong>Member</strong>, Computer Science and Engineering Society (CSE Society), ISM Dhanbad. </li>
+</ol>{: style="text-align: justify"}
+
+
+
+## Teaching Assistantships
 {:.mytable2}
 | Semester (Years) | Course                         | Institute |
 | :---:            | :---                           | --- |
@@ -14,15 +26,6 @@ permalink: /activities/
 | Monsoon (2015)   | Software Engineering Lab | IIT (ISM), Dhanbad |
 | Winter (2014)    | Algorithm Design and Analysis Lab | IIT (ISM), Dhanbad |
 | Monsoon (2013)   | Data Structures Lab               | IIT (ISM), Dhanbad |
-
-## Professional Affiliations/Memberships
----
-<ol>
-<li><strong>Professional Member</strong>, Association for Computing Machinery (ACM). </li>
-<li><strong>Member</strong>, India SOFTware Engineering community (ISOFT). </li>
-<li><strong>Graduate Student Member</strong>, Institute of Electrical and Electronics Engineers (IEEE). </li>
-<li><strong>Member</strong>, Computer Science and Engineering Society (CSE Society), ISM Dhanbad. </li>
-</ol>{: style="text-align: justify"}
 
 
 ## Professional Activities
