@@ -15,19 +15,13 @@ permalink: /activities/
          
 ## Professional Activities
 ---
+- **Volunteer**. The Fourth Paradigm : From Data to Discovery, Bhopal, India.
+- **Reviewer**. Future Generation Computer Systems (FGCS), Elsevier.
 - **Reviewer**. Journal of Parallel and Distributed Computing (JPDC), Elsevier.
 - **Reviewer**. Arabian Journal for Science and Engineering (AJSE), Springer.
 - **Ad-hoc Reviewer**. International Journal of Fog Computing (IJFC), IGI Global.
 - **Ad-hoc Reviewer**. International Journal of Web Services Research (IJWSR), IGI Global.
 - **Reviewer**. Software: Practice and Experience (SPE), Wiley.
-- **Guest Editor**. Special Issue On: Scalable Computing for Knowledge Discovery, International Journal of Knowledge Discovery on Bioinformatics (IJKDB), IGI Global.
-- **Invited Reviewer**. International Journal of Computers and Applications, Taylor & Francis.
-- **Invited Reviewer**. International Journal of Rough Sets and Data Analysis (IJRSDA), IGI Global.
-- **Student Volunteer**. 3rd IEEE International Conference on Recent Advances in Information Technology (RAIT), Dhanbad, Jharkhand, India.
-- **Invited Reviewer**. 3rd IEEE International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, India.
-- **External Reviewer**. 2nd IEEE International Conference on Systems and Informatics (ICSAI), Shanghai, China.
-- **Student Volunteer**. 2nd International Conference on Recent Advances in Information Technology (RAIT), Dhanbad, India.
-- **Student Volunteer**. 7th International Conference on Distributed Computing and Information Technology (ICDCIT), Bhubaneswar, India.
 {: style="text-align: justify"}
 
 
