@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Experience
+permalink: /bio/
 ---
 **Post Doctoral Fellow**<br>
 Department of Electrical Engineering and Computer Science<br>
