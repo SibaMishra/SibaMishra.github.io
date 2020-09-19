@@ -390,18 +390,26 @@ textarea {
  * Remove most spacing between table cells.
  */
 
-mytable {
+.mytable1 {
     border-collapse: collapse;
     margin-bottom: .5em;
     border-spacing: 0;
     width: 100%; /* make full width */
 }
-th {
-    border:0px solid #ffffff;
+
+.mytable2 {
+   border-collapse: collapse;
+    border-spacing: 0;
+     margin-bottom: .5em;
+    border:1px solid #000000;
+   width: 100%;
 }
 
-td {
-    border:0px solid #ffffff;
+th{
+    border:1.5px solid #000000;
 }
 
+td{
+    border:1px solid #000000;
+}
 
