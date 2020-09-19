@@ -411,7 +411,7 @@ textarea {
    Table 2
    ========================================================================== */
 
-table {
+.table {
    border-collapse: collapse;
     border-spacing: 0;
      margin-bottom: .5em;
@@ -419,10 +419,10 @@ table {
    width: 100%;
 }
 
-table th {
+.table th {
     border:1.5px solid #000000;
 }
 
-table td {
+.table td {
     border:1px solid #000000;
 }
