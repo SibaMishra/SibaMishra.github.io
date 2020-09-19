@@ -5,16 +5,16 @@
       <table class="mytable1">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
-        <mytable1 tr>
-          <mytable1 th scope="row"><small>{{ item.date | date: "%b, %Y" }}</small><mytable1 /th>
-          <mytable1 td>
+        <tr>
+          <th scope="row"><small>{{ item.date | date: "%b, %Y" }}</small></th>
+          <td>
             {% if item.inline %}
             <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
             {% else %}
               <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {% endif %}
-         <mytable1 /td>
-        <mytable1 /tr>
+         </td>
+        </tr>
       {% endfor %}
   </table>
     </div>
