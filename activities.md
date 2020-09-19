@@ -27,7 +27,13 @@ title: Teaching Assistantships
 | Year | Role | Event |
 | :---:| :---:| ---   |
 | Jan-2020 | Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India | 
-| Feb-2019 | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier|
+| Feb-2019 | Reviewer  | Future Generation Computer Systems (FGCS), Elsevier |
+| Nov-2018 | Reviewer  | Journal of Parallel and Distributed Computing (JPDC), Elsevier |
+| Dec-2018 | Reviewer  | Arabian Journal for Science and Engineering (AJSE), Springer.|
+| Feb-2018 | Ad-hoc Reviewer | International Journal of Fog Computing (IJFC), IGI Global |
+| Jan-2017 | Ad-hoc Reviewer | International Journal of Web Services Research (IJWSR), IGI Global |
+| Dec-2016 | Reviewer        | Software: Practice and Experience (SPE), Wiley |
+
 
 
 
