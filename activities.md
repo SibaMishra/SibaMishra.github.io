@@ -23,6 +23,7 @@ title: Teaching Assistantships
 
 ## Professional Activities
 {:class="table table-bordered"}
+
 | Tex Space     | Blue Space        | Lambda            |
 |-------------- |----------------   |------------------ |
 | sXYZ          | sBlue             | sXYZ abcde fghy   |
