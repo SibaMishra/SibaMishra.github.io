@@ -22,14 +22,13 @@ title: Teaching Assistantships
 
 
 ## Professional Activities
-<div class="mytable2">
-<div></div>
 
-| h1  | h2  | h3  |
-|-----|-----|-----|
-| abc | def | ghi |
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
 
-</div>
+
 
 
 
