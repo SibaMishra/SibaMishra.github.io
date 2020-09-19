@@ -24,10 +24,9 @@ title: Teaching Assistantships
 ## Professional Activities
 
 {:.mytable2}
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Year | Role | Event |
+| :---:| :---:| ---   |
+| Jan-2020 | Volunteer | The Fourth Paradigm : From Data to Discovery, Bhopal, India. | 
 
 
 
