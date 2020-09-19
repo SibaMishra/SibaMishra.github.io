@@ -16,7 +16,7 @@ permalink: /activities/
 
 {:.mytable2}
 | Semester (Year)  | Course Name at Institute    |                       
-| :--------------  | :------------------------   |   
+| --------------   | ------------------------    |   
 | Winter (2020)    | Data Structures and Algorithms at IISER, Bhopal |  
 | Monsoon (2019)   | Theory of Computation at IISER, Bhopal         | 
 | Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER, Bhopal|
