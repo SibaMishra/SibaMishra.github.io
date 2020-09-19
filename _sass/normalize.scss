@@ -423,10 +423,8 @@ textarea {
 
 .mytable2 td {
     border:1px solid #000000;
-}
-.mytable2-fit {
-    width: 1px;
+    max-width:50%;
+    white-space:nowrap;
 }
 
-.mytable2 tr:nth-child(odd) {background: #fff}
-.mytable2 tr:nth-child(even) {background: #ccc}
+
