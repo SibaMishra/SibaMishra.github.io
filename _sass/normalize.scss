@@ -423,8 +423,9 @@ textarea {
 
 .mytable2 td {
     border:1px solid #000000;
-    max-width:100%;
-    font-size: small;
+    width:100%;
+    border-spacing:0;
+    font-size: 150%;
     white-space:nowrap;
 }
 
