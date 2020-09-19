@@ -45,7 +45,8 @@
 	*zoom: 1;
 	&:before,
 	&:after {
-		display: mytable;
+		display: .mytable1;
+		display: .mytable2;
 		
 	    content: "";
 	}
