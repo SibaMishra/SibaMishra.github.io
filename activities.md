@@ -39,4 +39,4 @@ permalink: /activities/
 | Winter-14    | Algorithm Design and Analysis Lab at IIT(ISM), Dhanbad| 
 | Monsoon-13   | Data Structures Lab at IIT(ISM), Dhanbad   |  
 
-<small><p style="text-align:right"> For detailed and complete activities, please visit: <a target="_blank" href="./assets/cv/SIBA_CV.pdf"><span class="ai ai-cv-square ai-2x" style="color:#000000;font-size:25px;" aria-hidden="true"></span></a>.</p></small>
+<small><text-align:right> For detailed and complete activities, please visit: <a target="_blank" href="./assets/cv/SIBA_CV.pdf"><span class="ai ai-cv-square ai-2x" style="color:#000000;font-size:25px;" aria-hidden="true"></span></a>.</small>
