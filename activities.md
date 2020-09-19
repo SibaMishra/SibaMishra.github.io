@@ -22,13 +22,11 @@ title: Teaching Assistantships
 
 
 ## Professional Activities
-{:class="table table-bordered"}
-
-| Tex Space     | Blue Space        | Lambda            |
-|-------------- |----------------   |------------------ |
-| sXYZ          | sBlue             | sXYZ abcde fghy   |
-| Jaobe XTZ     | Blue Game 5.2     | 5.2               |
-
+| Item | Description | Price |
+| --- | --- | ---: |
+| item1 | item1 description | 1.00 |
+| item2 | item2 description | 100.00 |
+{:.mytablestyle}
 
 
 
