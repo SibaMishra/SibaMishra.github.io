@@ -12,21 +12,7 @@ permalink: /activities/
 <li><strong>Member</strong>, Computer Science and Engineering Society (CSE Society), ISM Dhanbad. </li>
 </ol>{: style="text-align: justify"}
 
-## Teaching Assistantships
-
-{:.mytable2}
-| Semester (Year)  | Course Name at Institute    |                       
-| --------------   | ------------------------    |   
-| Winter (2020)    | Data Structures and Algorithms at IISER, Bhopal |  
-| Monsoon (2019)   | Theory of Computation at IISER, Bhopal         | 
-| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER, Bhopal|
-| Winter (2017)    | Database Management Systems Lab at IIT(ISM), Dhanbad | 
-| Winter (2016)    | C Programming Lab at IIT(ISM), Dhanbad               | 
-| Monsoon (2015)   | Software Engineering Lab at IIT(ISM), Dhanbad      | 
-| Winter (2014)    | Algorithm Design and Analysis Lab at IIT(ISM), Dhanbad| 
-| Monsoon (2013)   | Data Structures Lab at IIT(ISM), Dhanbad              | 
-
-
+         
 ## Professional Activities
 ---
 - **Reviewer**. Journal of Parallel and Distributed Computing (JPDC), Elsevier.
@@ -45,5 +31,17 @@ permalink: /activities/
 {: style="text-align: justify"}
 
 
+## Teaching Assistantships
 
+{:.mytable2}
+| Semester (Year)  | Course Name at Institute    |                       
+| --------------   | ------------------------    |   
+| Winter (2020)    | Data Structures and Algorithms at IISER, Bhopal |  
+| Monsoon (2019)   | Theory of Computation at IISER, Bhopal         | 
+| Monsoon (2018)   | Introduction to Software Modeling and Verification (lab session) using New Symbolic Model Verifier at IISER, Bhopal|
+| Winter (2017)    | Database Management Systems Lab at IIT(ISM), Dhanbad | 
+| Winter (2016)    | C Programming Lab at IIT(ISM), Dhanbad               | 
+| Monsoon (2015)   | Software Engineering Lab at IIT(ISM), Dhanbad      | 
+| Winter (2014)    | Algorithm Design and Analysis Lab at IIT(ISM), Dhanbad| 
+| Monsoon (2013)   | Data Structures Lab at IIT(ISM), Dhanbad   |  
 
