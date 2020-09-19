@@ -14,7 +14,7 @@ More specifically, I am using the constructs of natural language processing and 
 {% if page.news %}
 {% endif %} 
 {% include _news.html %}
-{: style="text-align: justify"}
+
 
 
 
