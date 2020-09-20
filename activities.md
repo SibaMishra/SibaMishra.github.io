@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Affiliations and Memberships
+title: Professional Affiliations
 permalink: /activities/
 ---
 <ol>
@@ -11,7 +11,7 @@ permalink: /activities/
 </ol>{: style="text-align: justify"}
 
          
-## Professional Activities
+# Professional Activities
 ---
 - **Volunteer**. The Fourth Paradigm : From Data to Discovery, Bhopal, India.
 - **Reviewer**. Future Generation Computer Systems, Elsevier.
@@ -23,7 +23,7 @@ permalink: /activities/
 {: style="text-align: justify"}
 
 
-## Teaching Assistantships
+# Teaching Assistantships
 
 {:.mytable2}
 | Semester     | Course Name |                       
