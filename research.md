@@ -5,7 +5,7 @@ title: Current Research
 ---
 Software requirements are usually written in common natural language. Some characteristics of requirements are completeness, consistency and unambiguity. Out of this, an important quality criterion for each documented requirement is unambiguity. This simply means that all readers of the requirement must arrive at the same understanding of the requirement. Due to differences in the domain expertise of requirements engineer and other stakeholders of the project, it is possible that
 the requirements contain several words that allow alternative interpretations. For improving the trust between clients and software organizations, the following problems are must to be addressed. 
-{: style="text-align: justify"}
+{: style="text-align: justify text-justify: inter-word"}
  - it is always essential that the ambiguous words must be identified during the early stages of software development. 
  - all the domain specific technical terms must be defined in a common glossary. 
  - for having a better visualization and understanding of the requirements, the terms that are used in similar ways should always belongs to the same cluster. 
