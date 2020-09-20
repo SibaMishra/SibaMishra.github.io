@@ -3,32 +3,30 @@ layout: page
 title: Professional Affiliations and Memberships
 permalink: /activities/
 ---
----
-
 <ol>
 <li><strong>Professional Member</strong>. Association for Computing Machinery (ACM). </li>
 <li><strong>Member</strong>. India SOFTware Engineering community (ISOFT). </li>
 <li><strong>Graduate Student Member</strong>. Institute of Electrical and Electronics Engineers (IEEE). </li>
-<li><strong>Member</strong>. Computer Science and Engineering Society (CSE Society), ISM Dhanbad. </li>
+<li><strong>Member</strong>. Computer Science and Engineering Society (CSE Society), IIT(ISM) Dhanbad. </li>
 </ol>{: style="text-align: justify"}
 
          
 ## Professional Activities
 ---
 - **Volunteer**. The Fourth Paradigm : From Data to Discovery, Bhopal, India.
-- **Reviewer**. Future Generation Computer Systems (FGCS), Elsevier.
-- **Reviewer**. Journal of Parallel and Distributed Computing (JPDC), Elsevier.
-- **Reviewer**. Arabian Journal for Science and Engineering (AJSE), Springer.
-- **Ad-hoc Reviewer**. International Journal of Fog Computing (IJFC), IGI Global.
-- **Ad-hoc Reviewer**. International Journal of Web Services Research (IJWSR), IGI Global.
-- **Reviewer**. Software: Practice and Experience (SPE), Wiley.
+- **Reviewer**. Future Generation Computer Systems, Elsevier.
+- **Reviewer**. Journal of Parallel and Distributed Computing, Elsevier.
+- **Reviewer**. Arabian Journal for Science and Engineering, Springer.
+- **Ad-hoc Reviewer**. International Journal of Fog Computing, IGI Global.
+- **Ad-hoc Reviewer**. International Journal of Web Services Research, IGI Global.
+- **Reviewer**. Software: Practice and Experience, Wiley.
 {: style="text-align: justify"}
 
 
 ## Teaching Assistantships
 
 {:.mytable2}
-| Semester-YY  | Course Name |                       
+| Semester     | Course Name |                       
 | -------------| ------------|   
 | Winter-20    | Data Structures and Algorithms at IISER, Bhopal |  
 | Monsoon-19   | Theory of Computation at IISER, Bhopal         | 
