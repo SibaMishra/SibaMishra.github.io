@@ -10,7 +10,6 @@ permalink: /activities/
 <li><strong>Member</strong>. Computer Science and Engineering (CSE) Society, IIT(ISM) Dhanbad. </li>
 </ol>{: style="text-align: justify"}
 
-         
 # Professional Activities
 ---
 - **Volunteer**. The Fourth Paradigm : From Data to Discovery, Bhopal, India.
@@ -21,7 +20,6 @@ permalink: /activities/
 - **Ad-hoc Reviewer**. International Journal of Web Services Research, IGI Global.
 - **Reviewer**. Software: Practice and Experience, Wiley.
 {: style="text-align: justify"}
-
 
 # Teaching Assistantships
 
