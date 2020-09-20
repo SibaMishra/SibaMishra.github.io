@@ -3,6 +3,7 @@ layout: page
 title: Professional Affiliations
 permalink: /activities/
 ---
+---
 <ol>
 <li><strong>Professional Member</strong>. Association for Computing Machinery (ACM). </li>
 <li><strong>Member</strong>. India SOFTware Engineering community (ISOFT). </li>
