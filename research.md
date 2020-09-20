@@ -1,17 +1,16 @@
 ---
 layout: page
-title: <u>Current Research</u>
+title: Current Research
 ---
 ---
-Software requirements are usually written in common natural language. Some essential characteristics of requirements are completeness, consistency and unambiguity. Out of this, unambiguity is an important quality criterion. This simply means that all readers of the requirement must arrive at the same understanding of requirement. Due to differences in the domain expertise of requirements engineer and other stakeholders of the project, it is possible that the requirements contain several words that allow alternative interpretations. For enhancing confidence between the stakeholders, the following problems should be addressed. 
+Software requirements are usually written in common natural language. Some essential characteristics of requirements are completeness, consistency and unambiguity. Out of this, unambiguity is an important quality criterion. This simply means that all readers of the requirement must arrive at the same understanding of requirement. Due to differences in the domain expertise of requirements engineer and other stakeholders of the project, it is possible that the requirements contain several words that allow alternative interpretations. For enhancing confidence between the stakeholders, the following problems should be addressed during the early stages of software development. 
 {: style="text-align: justify"}
- - the ambiguous words must be identified during the early stages of software development. 
- - all the domain specific technical terms must be defined in a common glossary. 
+ - early identification of all ambiguous words. 
+ - defining domain specific technical terms in a common glossary. 
  - the terms that are used in similar ways should always belongs to the same cluster. 
+All the above mentioned problems are very crucial throughout the software development lifecycle. To address the aforementioned issues, we are using a twofold technique based on natural language processing (NLP) and the state-of-the-art neural word embeddings. 
 {: style="text-align: justify"}
-All the above mentioned problems are very crucial throughout the software development lifecycle. To address the aforementioned issues, we used a twofold technique based on natural language processing (NLP) and the state-of-the-art neural word embeddings. 
-{: style="text-align: justify"}
-## <u>Past Research Works</u> 
+## Past Research 
 ---
 #### Cost Estimation and Testing of SOA Systems (2013-2018)
 ---
