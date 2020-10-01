@@ -16,13 +16,15 @@ body {
 	@include container;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
-	font-weight: 700;
+	font-weight: 900;
 	text-transform: capitalize;
 	@include clearfix;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .30em;
-	
+	content-width: 1000px;
+        breakpoint: 799px;
+        nav-height: 70px;
 }
 
 /* Site name */
@@ -33,6 +35,7 @@ body {
 	margin-bottom: .5em;
 	float: none;
 	display: block;
+	text-transform: uppercase;
 	text-align:center;
 	@include font-rem(24);
 	@media #{$small} {
