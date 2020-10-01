@@ -1,7 +1,6 @@
 ---
-layout: post
-title:  Hello
-posts: true
+layout: post-index
+title:  All Posts
 ---
 
 
