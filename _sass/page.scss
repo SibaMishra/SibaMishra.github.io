@@ -94,6 +94,11 @@ body {
 				display: inline;
 				padding: 0;
 			}
+			
+		ul li a:hover {
+                       color: #fff;
+                       z-index: 1;
+                        }
 		}
 	}
 }
