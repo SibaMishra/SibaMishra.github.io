@@ -16,13 +16,6 @@ More specifically, I am using the constructs of natural language processing and 
 {% include _news.html %}
 
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
-</div>
-
-
 
 
 
