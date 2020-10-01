@@ -45,10 +45,7 @@ $(function() {
 
 // Add lightbox class to all image links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
-// theme switch
-$(".theme-switch").on("click", () => {
-  $("body").toggleClass("light-theme");
-});
+
 // Magnific-Popup options
 $(document).ready(function() {
   $('.image-popup').magnificPopup({
