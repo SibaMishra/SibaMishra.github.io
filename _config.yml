@@ -62,13 +62,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  posts:
-    output: true
-    layout: post-index
-    permalink: /posts/:path/
+  
 
 news_limit: 5
-post_limit: 1
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#CC0000'
