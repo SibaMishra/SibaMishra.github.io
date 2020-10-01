@@ -94,7 +94,14 @@ body {
 				display: inline;
 				padding: 0;
 			}
-		
+		&:hover {
+                        background: #2581DC;
+                        color: #ffffff;
+                         }
+                &:not(:only-child):after {
+                                         padding-left: 4px;
+                                         content: ' ▾';
+                                          } 
 
 		}
 		
