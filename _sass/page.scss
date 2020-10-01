@@ -16,15 +16,12 @@ body {
 	@include container;
 	padding: 2em 0 1em;
 	font-family: $heading-font;
-	font-weight: 900;
+	font-weight: 950;
 	text-transform: capitalize;
 	@include clearfix;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .30em;
-	content-width: 1000px;
-        breakpoint: 799px;
-        nav-height: 70px;
 }
 
 /* Site name */
@@ -98,13 +95,9 @@ body {
 				padding: 0;
 			}
 		&:hover {
-                        background: #000000;
-                        color: #ffffff;
+                        background: #000;
+                        color: #fff;
                          }
-                &:not(:only-child):after {
-                                         padding-left: 4px;
-                                         content: ' ▾';
-                                          } 
 
 		}
 		
