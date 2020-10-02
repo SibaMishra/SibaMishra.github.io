@@ -16,10 +16,11 @@
 				        {% assign domain = site.github.url %}
 				    {% endif %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+			    
+				{% endfor %}
 			    <button class="nightModeButton">
         <img class="button-image" src="http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c399.png">
       </button>
-				{% endfor %}
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
