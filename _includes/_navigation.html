@@ -18,7 +18,8 @@
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 			    
 				{% endfor %}
-			    <button type="button" name="dark_light" onclick="toggleDarkLight()" title="Toggle dark/light mode">🌙</button>
+			    <body id="body" class="dark-mode">
+		            <button type="button" name="dark_light" onclick="toggleDarkLight()" title="Toggle dark/light mode">🌙</button>
 		    </ul>
 			
 		</nav>
