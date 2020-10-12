@@ -1,9 +1,9 @@
 ---
 layout: page
-title: news
+title: All News
 permalink: /news/
-description: All news items, ever.
 navinclude: false
+style="text-align: justify"
 ---
 <div class="allnews">
   {% if site.news %}
