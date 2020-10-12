@@ -6,6 +6,7 @@ navinclude: false
 ---
 <div class="allnews">
   {% if site.news %}
+  {: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
   <div>
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
@@ -14,7 +15,6 @@ navinclude: false
         <td class="date"><small>{{ item.date | date: "%b %-d, %Y" }}</small></td> 
         <td class="announcement">
           {% if item.inline %}
-          {: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
           <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
           {% else %}
             <a class="news-title" href="{{ item.url | prepend: site.baseurl }}"><small>{{ item.title | emojify }}</small></a>
