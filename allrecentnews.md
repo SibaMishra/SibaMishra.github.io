@@ -16,7 +16,7 @@ navinclude: false
           {% if item.inline %}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
-            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title | emojify }}</a>
+            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}"><small>{{ item.title | emojify }}</small></a>
           {% endif %}
         </td>
       </tr>
