@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: All News
 permalink: /news/
 navinclude: false
