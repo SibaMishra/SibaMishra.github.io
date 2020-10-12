@@ -12,6 +12,7 @@ navinclude: false
     {% for item in news%}
       <tr>
         <td class="date"><small>{{ item.date | date: "%b %-d, %Y" }}</small></td>
+        {: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"} 
         <td class="announcement">
           {% if item.inline %}
           <small>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</small>
