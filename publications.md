@@ -35,4 +35,4 @@ modified: 9-20-20
 * Abhishek Ray, <u>Siba Mishra</u>, and Durga Prasad Mohapatra. Jan. 2013. **A Novel Approach for Computing Dynamic Slices of Concurrent Aspect-Oriented Programs**. *In: International Journal of Software Engineering and its Applications* 7.1, pp. 13–32. 
 
 * Abhishek Ray, <u>Siba Mishra</u>, and Durga Prasad Mohapatra. Sept. 2012. **A Novel Approach for Computing Dynamic Slices of Aspect-Oriented Programs**. *In: International Journal of Computer Information Systems* 5.3, pp.6-12.
-{: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
+{: style="text-align: justify !important"}
