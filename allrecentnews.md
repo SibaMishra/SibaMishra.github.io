@@ -3,8 +3,8 @@ layout: page
 title: <h3>All News</h3>
 permalink: /news/
 navinclude: false
-{: style="text-align: justify"}
 ---
+{: style="text-align: justify"}
 <div class="allnews">
   {% if site.news %}
     <table>
