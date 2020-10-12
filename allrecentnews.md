@@ -3,10 +3,10 @@ layout: page
 title: <h3>All News</h3>
 permalink: /news/
 navinclude: false
+{: style="text-align: justify"}
 ---
 <div class="allnews">
   {% if site.news %}
-  {: style="text-align: justify"}
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
     {% for item in news%}
