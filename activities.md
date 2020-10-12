@@ -9,7 +9,7 @@ permalink: /activities/
 <li><strong>Member</strong>. India SOFTware Engineering community (ISOFT). </li>
 <li><strong>Graduate Student Member</strong>. Institute of Electrical and Electronics Engineers (IEEE). </li>
 <li><strong>Member</strong>. Computer Science and Engineering (CSE) Society, IIT(ISM) Dhanbad. </li>
-</ol>{: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
+</ol>{: style="text-align: justify !important"}
 
 # Professional Activities
 ---
@@ -20,7 +20,7 @@ permalink: /activities/
 - **Ad-hoc Reviewer**. International Journal of Fog Computing, IGI Global.
 - **Ad-hoc Reviewer**. International Journal of Web Services Research, IGI Global.
 - **Reviewer**. Software: Practice and Experience, Wiley.
-{: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
+{: style="text-align: justify !important"}
 
 # Teaching Assistantships
 
