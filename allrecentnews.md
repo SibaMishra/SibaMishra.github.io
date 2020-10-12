@@ -3,7 +3,7 @@ layout: page
 title: All News
 permalink: /news/
 navinclude: false
-text-align: justify !important
+text-align: justify
 ---
 <div class="allnews">
   {% if site.news %}
