@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h3>All News</h3>
+title: All News
 permalink: /news/
 navinclude: false
 ---
