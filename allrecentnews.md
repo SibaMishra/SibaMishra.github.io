@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All News
+title: Updates
 permalink: /news/
 navinclude: false
 text-align: justify !important
