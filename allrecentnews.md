@@ -6,11 +6,12 @@ navinclude: false
 ---
 <div class="allnews">
   {% if site.news %}
+  <div class="mytable1-responsive">
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
     {% for item in news%}
       <tr>
-        <td class="date">{{ item.date | date: "%b %-d, %Y" }}</td>
+        <td class="date"><small>{{ item.date | date: "%b %-d, %Y" }}</small></td>
         <td class="announcement">
           {% if item.inline %}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
@@ -21,6 +22,7 @@ navinclude: false
       </tr>
     {% endfor %}
     </table>
+  </div>
   {% else %}
     <p>No news so far...</p>
   {% endif %}
