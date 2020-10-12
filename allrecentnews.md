@@ -24,6 +24,6 @@ navinclude: false
     </table>
   </div>
   {% else %}
-    <p>No news so far...</p>
+    <p> No news so far... </p>
   {% endif %}
 </div>
