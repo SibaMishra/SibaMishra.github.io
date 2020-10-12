@@ -6,7 +6,7 @@ navinclude: false
 ---
 <div class="allnews">
   {% if site.news %}
-  <div class="mytable1-responsive">
+  <div style="text-align: justify">
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
     {% for item in news%}
