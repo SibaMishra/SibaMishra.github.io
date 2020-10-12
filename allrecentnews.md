@@ -6,7 +6,7 @@ navinclude: false
 ---
 <div class="allnews">
   {% if site.news %}
-  <div style="text-align: justify">
+  <div>
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
     {% for item in news%}
