@@ -1,6 +1,6 @@
 ---
-layout: post
-title: All News
+layout: page
+title: <h3>All News</h3>
 permalink: /news/
 navinclude: false
 ---
