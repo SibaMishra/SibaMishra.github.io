@@ -4,9 +4,8 @@ title: All News
 permalink: /news/
 navinclude: false
 ---
-<div class="allnews">
+<div class="allnews",style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility">
   {% if site.news %}
-  {: style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
   <div>
     <table>
     {% assign news = site.news | sort: 'date' | reverse %}
