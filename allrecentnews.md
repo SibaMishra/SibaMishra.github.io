@@ -4,7 +4,8 @@ title: All News
 permalink: /news/
 navinclude: false
 ---
-<div class="allnews",style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility">
+{style="text-align: justify !important;text-justify: inter-character;text-rendering: optimizeLegibility"}
+<div class="allnews">
   {% if site.news %}
   <div>
     <table>
