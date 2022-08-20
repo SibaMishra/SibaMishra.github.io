@@ -13,6 +13,8 @@ permalink: /activities/
 
 # Professional Activities
 ---
+- **Reviewer**. Automation in Construction, Elsevier.
+- **Reviewer**. Information Fusion, Elsevier.
 - **Volunteer**. The Fourth Paradigm : From Data to Discovery, Bhopal, India.
 - **Reviewer**. Future Generation Computer Systems, Elsevier.
 - **Reviewer**. Journal of Parallel and Distributed Computing, Elsevier.
