@@ -8,7 +8,9 @@ modified: 9-20-20
 
 ***
 
-* <u>Siba Mishra</u>, Arpit Sharma. Feb. 2021. **Crawling Wikipedia Pages to Train Word Embeddings Model for Software Engineering Domain**. *In: Proceedings of the 14th Innovations in Software Engineering Conference (Formerly Known as India Software Engineering Conference) (ISEC'2021), Bhubaneswar, India*, pp. 1-5. <a target="_blank" href="https://doi.org/10.1145/3452383.3452401"><span class="ai ai-doi-square ai-lg zoom" style="color:#000000" aria-hidden="true"></span></a> 
+* <u>Siba Mishra</u>, Arpit Sharma. Feb. 2021. **A Generalized Semantic Filter for Glossary Term Extraction from Large-Sized Software Requirements**. *In: Proceedings of the 14th Innovations in Software Engineering Conference (Formerly Known as India Software Engineering Conference) (ISEC'2021), Bhubaneswar, India*, Article 4, pp. 1-9. <a target="_blank" href="https://doi.org/10.1145/3452383.3452387"><span class="ai ai-doi-square ai-lg zoom" style="color:#000000" aria-hidden="true"></span></a> 
+
+* <u>Siba Mishra</u>, Arpit Sharma. Feb. 2021. **Crawling Wikipedia Pages to Train Word Embeddings Model for Software Engineering Domain**. *In: Proceedings of the 14th Innovations in Software Engineering Conference (Formerly Known as India Software Engineering Conference) (ISEC'2021), Bhubaneswar, India*, Article 18, pp. 1-5. <a target="_blank" href="https://doi.org/10.1145/3452383.3452401"><span class="ai ai-doi-square ai-lg zoom" style="color:#000000" aria-hidden="true"></span></a> 
 
 * <u>Siba Mishra</u>, Arpit Sharma. Mar. 2020. **Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements**. *In: Proceedings of the 26th International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ'2020), Pisa, Italy*, pp. 203-218. <a target="_blank" href="https://doi.org/10.1007%2F978-3-030-44429-7_15"><span class="ai ai-doi-square ai-lg zoom" style="color:#000000" aria-hidden="true"></span></a> 
 
