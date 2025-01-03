@@ -4,11 +4,21 @@ title: Experience
 permalink: /bio/
 ---
 ---
+**Assistant Professor**<br>
+C.V. Raman Global University, Bhubaneswar, Odisha, India<br>
+Department: Computer Science and Engineering<br>
+(2021 to 2024)
+
+**Research And Engineering Scientist**<br>
+Zoho Corporation, Chennai, Tamil Nadu, India<br>
+Areas: Natural Language Processing and Programming Language Design<br>
+(2021 to 2024)
+
 **Post Doctoral Fellow**<br>
-Department of Electrical Engineering and Computer Science<br>
+Department of Electrical Engineering and Computer Science (EECS)<br>
 Indian Institute of Science Education and Research, Bhopal<br>
-Areas: Software Requirements Engineering<br>
-(May, 2018 to Present)
+Areas: Software Requirements Engineering, Natural Language Understanding<br>
+(2018 to 2020)
 
 # Education
 ---
