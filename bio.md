@@ -7,7 +7,7 @@ permalink: /bio/
 **Assistant Professor**<br>
 C.V. Raman Global University, Bhubaneswar, Odisha, India<br>
 Department: Computer Science and Engineering<br>
-(2021 to 2024)
+(October, 2024 to Current)
 
 **Research And Engineering Scientist**<br>
 Zoho Corporation, Chennai, Tamil Nadu, India<br>
